@@ -1,18 +1,58 @@
+<div id="header" align="center">
+  <img width="945" height="250" alt="github-header-image" src="https://github.com/user-attachments/assets/b48d9c4f-1bae-4ecd-b14b-731c8aa813fb" />
+</div><br>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniketsinghs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aniketsinghs718@gmail.com) 
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/aniketsinghs">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:aniketsinghs718@gmail.com">
+    <img src="https://img.shields.io/badge/Email-465149?style=for-the-badge"/>
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aniketsinghs718&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aniketsinghs718&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketsinghs718&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h1 align="center">Hello 👋, I'm Aniket Singh</h1>
+<h3 align="center">"Building elegant solutions with code, creativity, and curiosity."</h3><br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img align="right" alt="Coding" width="325" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
----
-[![](https://visitcount.itsvg.in/api?id=Aniketsinghs718&icon=0&color=7)](https://visitcount.itsvg.in)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Aniketsinghs718&label=Visitors&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🚀 I'm currently learning **full-stack web development** and exploring cool JavaScript frameworks  
+- 🧠 Trying to understand **how big systems work** and how to write clean, simple code  
+- 🤝 I’d love to join beginner-friendly **open source projects** and learn by doing  
+- ⚡ Fun fact: I really enjoy solving little puzzles and figuring out how things work under the hood
+
+
+<br><br><br>
+
+### <p align="center">Tech Stack & Tools</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,github" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=threejs,flutter" />
+</p>
+
+
+
+<br><br>
+
+### 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aniketsinghs718&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=ffffff&text_color=cccccc" alt="Top Languages" />
+</p>
+
+
+
+<br>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
